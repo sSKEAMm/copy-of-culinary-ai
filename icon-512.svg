@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="110" fill="#D9534F"/>
+  
+  <!-- Chef Hat Main -->
+  <path d="M160 320 Q160 240 200 214 Q240 174 256 174 Q272 174 312 214 Q352 240 352 320 L160 320 Z" fill="white"/>
+  
+  <!-- Chef Hat Brim -->
+  <ellipse cx="256" cy="320" rx="106" ry="32" fill="white"/>
+  
+  <!-- Chef Hat Puff -->
+  <circle cx="256" cy="227" r="53" fill="white"/>
+  
+  <!-- Small decorative elements -->
+  <circle cx="227" cy="208" r="11" fill="#f1f3f4"/>
+  <circle cx="285" cy="218" r="8" fill="#f1f3f4"/>
+  <circle cx="256" cy="190" r="9" fill="#f1f3f4"/>
+</svg> 

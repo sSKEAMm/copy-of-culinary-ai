@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Culinary AI",
+  "description": "A smart kitchen companion app to discover recipes, plan meals, manage shopping lists, and get AI-powered culinary suggestions. Built with React, Tailwind CSS, and Gemini API.",
+  "requestFramePermissions": []
+}
